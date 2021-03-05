@@ -1,0 +1,8 @@
+### OS Specific ###
+.DS_Store
+*.backup
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.terraform/
+*.tfstate
